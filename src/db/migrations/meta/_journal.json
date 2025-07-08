@@ -8,6 +8,13 @@
       "when": 1751989228988,
       "tag": "0000_military_surge",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1751997371759,
+      "tag": "0001_common_forge",
+      "breakpoints": true
     }
   ]
 }
